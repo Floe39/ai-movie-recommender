@@ -1,0 +1,1 @@
+# Keep the SQLite database directory in source control. The runtime database is created here.
